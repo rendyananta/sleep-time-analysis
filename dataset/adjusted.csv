@@ -4,7 +4,6 @@ timestamp,age,sex,occupation,must_use_phone,screen_time,sleep_time,is_smoker,is_
 10/31/2020 9:31:32,20-25,Pria,Teknologi Informasi,Tidak,3 - 5 jam sehari,6 - 8 jam sehari,"Tidak, saya bukan seorang perokok aktif",Tidak,Tidak,Mungkin,"Ya, lebih sering menatap layar ponsel saat pandemi"
 10/31/2020 9:37:07,25-30,Pria,Teknologi Informasi,Ya,Lebih dari 9 jam sehari,6 - 8 jam sehari,"Tidak, saya bukan seorang perokok aktif",Tidak,Tidak,Mungkin,"Ya, lebih sering menatap layar ponsel saat pandemi"
 10/31/2020 9:38:10,20-25,Pria,Teknologi Informasi,Tidak,6 - 8 jam sehari,6 - 8 jam sehari,"Tidak, saya bukan seorang perokok aktif",Tidak,Tidak,Mungkin,"Ya, lebih sering menatap layar ponsel saat pandemi"
-10/31/2020 9:38:55,>35,Pria,Teknologi Informasi,Tidak,Kurang dari 1 jam sehari,3 - 5 jam sehari,"Ya, saya seorang perokok aktif",Ya,Tidak,Tidak,Tidak ada perubahan
 10/31/2020 9:40:34,20-25,Wanita,Teknologi Informasi,Ya,6 - 8 jam sehari,6 - 8 jam sehari,"Tidak, saya bukan seorang perokok aktif",Tidak,Tidak,Tidak,"Ya, lebih sering menatap layar ponsel saat pandemi"
 10/31/2020 9:43:16,20-25,Pria,Teknologi Informasi,Tidak,1 - 2 jam sehari,3 - 5 jam sehari,"Tidak, saya bukan seorang perokok aktif",Tidak,Tidak,Tidak,Tidak ada perubahan
 10/31/2020 9:45:55,20-25,Wanita,Teknologi Informasi,Ya,6 - 8 jam sehari,6 - 8 jam sehari,"Tidak, saya bukan seorang perokok aktif",Tidak,Tidak,Ya,"Ya, lebih sering menatap layar ponsel saat pandemi"
@@ -22,29 +21,22 @@ timestamp,age,sex,occupation,must_use_phone,screen_time,sleep_time,is_smoker,is_
 10/31/2020 11:25:34,20-25,Wanita,Perbankan,Tidak,3 - 5 jam sehari,6 - 8 jam sehari,"Tidak, saya bukan seorang perokok aktif",Tidak,Tidak,Mungkin,"Ya, lebih sering menatap layar ponsel saat pandemi"
 10/31/2020 11:29:02,20-25,Pria,Telekomunikasi,Tidak,3 - 5 jam sehari,6 - 8 jam sehari,"Tidak, saya bukan seorang perokok aktif",Tidak,Tidak,Tidak,"Ya, lebih sering menatap layar ponsel saat pandemi"
 10/31/2020 11:31:03,15-20,Pria,Teknologi Informasi,Ya,3 - 5 jam sehari,6 - 8 jam sehari,"Tidak, saya bukan seorang perokok aktif",Tidak,Tidak,Mungkin,"Ya, lebih sering menatap layar ponsel saat pandemi"
-10/31/2020 11:39:40,15-20,Wanita,Mahasiswa,Ya,Lebih dari 9 jam sehari,3 - 5 jam sehari,"Tidak, saya bukan seorang perokok aktif",Tidak,Tidak,Ya,"Ya, lebih sering menatap layar ponsel saat pandemi"
 10/31/2020 11:42:49,20-25,Pria,Seni Kreatif dan Desain,Ya,6 - 8 jam sehari,3 - 5 jam sehari,"Tidak, saya bukan seorang perokok aktif",Tidak,Tidak,Mungkin,"Ya, lebih sering menatap layar ponsel saat pandemi"
 10/31/2020 11:50:08,15-20,Pria,Teknologi Informasi,Ya,6 - 8 jam sehari,6 - 8 jam sehari,"Tidak, saya bukan seorang perokok aktif",Tidak,Tidak,Mungkin,Tidak ada perubahan
 10/31/2020 11:50:31,20-25,Pria,Teknologi Informasi,Ya,3 - 5 jam sehari,3 - 5 jam sehari,"Tidak, saya bukan seorang perokok aktif",Tidak,Tidak,Mungkin,Tidak ada perubahan
-10/31/2020 12:06:02,15-20,Pria,Mahasiswa,Tidak,3 - 5 jam sehari,6 - 8 jam sehari,"Tidak, saya bukan seorang perokok aktif",Tidak,Tidak,Ya,"Ya, lebih sering menatap layar ponsel saat pandemi"
 10/31/2020 12:11:19,15-20,Wanita,Teknologi Informasi,Ya,Lebih dari 9 jam sehari,6 - 8 jam sehari,"Tidak, saya bukan seorang perokok aktif",Tidak,Tidak,Mungkin,"Ya, lebih sering menatap layar ponsel saat pandemi"
 10/31/2020 12:24:01,15-20,Pria,Otomasi industri,Tidak,3 - 5 jam sehari,6 - 8 jam sehari,"Tidak, saya bukan seorang perokok aktif",Tidak,Tidak,Mungkin,"Ya, lebih sering menatap layar ponsel saat pandemi"
-10/31/2020 12:24:25,15-20,Pria,Mahasiswa,Ya,Lebih dari 9 jam sehari,6 - 8 jam sehari,"Tidak, saya bukan seorang perokok aktif",Tidak,Tidak,Ya,"Ya, lebih sering menatap layar ponsel saat pandemi"
 10/31/2020 12:24:35,15-20,Wanita,Pendidikan,Ya,6 - 8 jam sehari,3 - 5 jam sehari,"Tidak, saya bukan seorang perokok aktif",Tidak,Tidak,Mungkin,"Ya, lebih sering menatap layar ponsel saat pandemi"
 10/31/2020 12:24:41,15-20,Pria,Media Massa,Ya,6 - 8 jam sehari,3 - 5 jam sehari,"Ya, saya seorang perokok aktif",Ya,Tidak,Tidak,Tidak ada perubahan
-10/31/2020 12:26:33,15-20,Wanita,Mahasiswa,Ya,6 - 8 jam sehari,3 - 5 jam sehari,"Tidak, saya bukan seorang perokok aktif",Tidak,Tidak,Ya,"Ya, lebih sering menatap layar ponsel saat pandemi"
 10/31/2020 12:33:30,20-25,Pria,Media Massa,Tidak,6 - 8 jam sehari,6 - 8 jam sehari,"Tidak, saya bukan seorang perokok aktif",Tidak,Tidak,Mungkin,"Ya, lebih sering menatap layar ponsel saat pandemi"
 10/31/2020 12:48:11,15-20,Pria,Seni Kreatif dan Desain,Tidak,6 - 8 jam sehari,6 - 8 jam sehari,"Tidak, saya bukan seorang perokok aktif",Tidak,Tidak,Tidak,"Ya, lebih sering menatap layar ponsel saat pandemi"
-10/31/2020 12:49:09,20-25,Wanita,Mahasiswa,Ya,Lebih dari 9 jam sehari,6 - 8 jam sehari,"Tidak, saya bukan seorang perokok aktif",Tidak,Tidak,Mungkin,Tidak ada perubahan
 10/31/2020 13:02:38,15-20,Wanita,Teknologi Informasi,Ya,Lebih dari 9 jam sehari,6 - 8 jam sehari,"Tidak, saya bukan seorang perokok aktif",Tidak,Tidak,Tidak,"Ya, lebih sering menatap layar ponsel saat pandemi"
-10/31/2020 14:20:58,15-20,Pria,Mahasiswa,Ya,Lebih dari 9 jam sehari,6 - 8 jam sehari,"Tidak, saya bukan seorang perokok aktif",Tidak,Tidak,Mungkin,"Ya, lebih sering menatap layar ponsel saat pandemi"
 10/31/2020 14:59:13,15-20,Wanita,Pendidikan,Ya,3 - 5 jam sehari,3 - 5 jam sehari,"Tidak, saya bukan seorang perokok aktif",Tidak,Tidak,Mungkin,"Ya, lebih sering menatap layar ponsel saat pandemi"
 10/31/2020 15:44:12,20-25,Pria,Pendidikan,Ya,3 - 5 jam sehari,3 - 5 jam sehari,"Tidak, saya bukan seorang perokok aktif",Tidak,Tidak,Mungkin,"Ya, lebih sering menatap layar ponsel saat pandemi"
 10/31/2020 16:24:59,15-20,Pria,Sosial,Tidak,6 - 8 jam sehari,3 - 5 jam sehari,"Tidak, saya bukan seorang perokok aktif",Tidak,Tidak,Mungkin,"Ya, lebih sering menatap layar ponsel saat pandemi"
 10/31/2020 17:51:03,15-20,Pria,Teknologi Informasi,Tidak,6 - 8 jam sehari,3 - 5 jam sehari,"Tidak, saya bukan seorang perokok aktif",Tidak,Tidak,Ya,"Ya, lebih sering menatap layar ponsel saat pandemi"
 10/31/2020 18:21:52,15-20,Wanita,Seni Kreatif dan Desain,Tidak,3 - 5 jam sehari,6 - 8 jam sehari,"Tidak, saya bukan seorang perokok aktif",Tidak,Tidak,Mungkin,"Ya, lebih sering menatap layar ponsel saat pandemi"
 10/31/2020 18:38:15,20-25,Wanita,Seni Kreatif dan Desain,Ya,Lebih dari 9 jam sehari,6 - 8 jam sehari,"Tidak, saya bukan seorang perokok aktif",Tidak,Tidak,Tidak,"Ya, lebih sering menatap layar ponsel saat pandemi"
-10/31/2020 20:05:12,15-20,Pria,Mahasiswa,Ya,Lebih dari 9 jam sehari,6 - 8 jam sehari,"Tidak, saya bukan seorang perokok aktif",Tidak,Tidak,Mungkin,"Ya, lebih sering menatap layar ponsel saat pandemi"
 10/31/2020 20:35:44,15-20,Pria,Teknologi Informasi,Ya,6 - 8 jam sehari,3 - 5 jam sehari,"Tidak, saya bukan seorang perokok aktif",Tidak,Tidak,Mungkin,"Ya, lebih sering menatap layar ponsel saat pandemi"
 11/1/2020 3:54:32,15-20,Pria,Teknologi Informasi,Tidak,3 - 5 jam sehari,6 - 8 jam sehari,"Tidak, saya bukan seorang perokok aktif",Tidak,Tidak,Tidak,Tidak ada perubahan
 11/1/2020 5:24:53,15-20,Wanita,Pendidikan,Tidak,3 - 5 jam sehari,6 - 8 jam sehari,"Tidak, saya bukan seorang perokok aktif",Tidak,Tidak,Ya,
