@@ -19,5 +19,5 @@ is a dataset that have been encoded because the data is basically an ordinal. It
 
 
 ###  Analysis
-There are two analysis we did in this research, descriptive analytics -- including chi squared correlation test and regresion analytics. 
+There are two analysis we did in this research, descriptive analysis -- including chi squared correlation test and regresion analysis. 
 But afterall, we just use the descriptive cross tabular analysis and chi squared correlation test.
