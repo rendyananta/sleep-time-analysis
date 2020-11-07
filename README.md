@@ -1,4 +1,4 @@
-# Analytics Correlation between Screen Time, Occupation, and Pandemic Event with Sleep Time Quantity
+# Analysis Correlation between Screen Time, Occupation, and Pandemic Event with Sleep Time Quantity
 
 
 [![DOI](https://zenodo.org/badge/308826563.svg)](https://zenodo.org/badge/latestdoi/308826563)
